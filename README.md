@@ -1,0 +1,2 @@
+# BIGTREETECH-TouchScreenFirmware
+Binary
